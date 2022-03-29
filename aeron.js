@@ -146,7 +146,7 @@ const sentMsg  = await aeron.sendMessage(from, { contacts: { contacts: [{ vcard 
 break
 case 'donasi':
 case 'donate':
-const donasi =`┌──「 *Pulsa* 」\n${list} 0856-4829-4105\n└────`
+const donasi =`┌──「 *Pulsa* 」\n${list} 0831-0359-2954\n└────`
 reply(donasi)
 break
 case 'help':
@@ -172,7 +172,7 @@ hydratedFooterText: "Bot whatsapp multi device",
 hydratedButtons: [{
 urlButton: {
 displayText: 'Script bot',
-url: 'https://github.com/R1ynz/aeron-bot'
+url: 'https://github.com/😓👌'
 }
 }, 
 {
